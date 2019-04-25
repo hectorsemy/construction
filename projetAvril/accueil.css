@@ -1,0 +1,49 @@
+#navbarSupportedContent-4{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.bati{
+    color: brown;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+.plus{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: lucida calligraphy;
+
+}
+#bp{
+    margin-left: 70px;
+}
+#slide{
+    text-align: center;
+    margin-bottom: 50px;
+    
+
+}
+#foot{
+    background-color:#007bff; 
+    margin-top: 40px;
+}
+.card-img-top{
+    height: 800px;
+    
+}
+
+.container-fluid text-center text-md-left{
+    margin-top: 70px;
+}
+#new{
+    width: 50%;
+    text-align: center;
+    margin-top: 30px;   
+    margin-left: 350px;  
+    
+}
+ 
